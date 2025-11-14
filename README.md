@@ -18,7 +18,8 @@
 <table>
   <tr>
     <td width="170" valign="middle" align="center">
-      <img width="2448" height="2448" alt="roupa homem aranha" src="https://github.com/user-attachments/assets/02be9240-bc75-4af2-bbc8-8ddb53a10953" />
+      <img width="2448" height="2448" alt="roupa homem aranha" src="https://github.com/user-attachments/assets/c9701bc8-77c7-40dc-b5e4-939409c99885" />
+" />
     </td>
     <td valign="top">
       <p>
