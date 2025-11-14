@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="230px">
-      <img width="512" height="512" alt="github homem aranha" src="https://github.com/user-attachments/assets/d2794914-2257-4b71-95ee-932b160ef644" />
+      <img width="512" height="512" alt="github homem aranha" src="https://github.com/user-attachments/assets/d2794914-2257-4b71-95ee-932b160ef644"/>
     </td>
     <td>
       <h1>Bem-vindo ao meu perfil!</h1>
