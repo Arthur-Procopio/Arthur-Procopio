@@ -18,11 +18,11 @@
 <table>
   <tr>
     <td width="170" valign="middle" align="center">
-      <img width="2448" height="2448" alt="roupa homem aranha" src="https://github.com/user-attachments/assets/74ad2315-66e0-4ba0-9180-b10963b70f42" />
+      <img width="2448" height="2448" alt="roupa homem aranha" src="https://github.com/user-attachments/assets/02be9240-bc75-4af2-bbc8-8ddb53a10953" />
     </td>
     <td valign="top">
       <p>
-        Me chamo Arthur Procópio, tenho 20 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas(e caso se pergunta, sim, esse sou eu com meu traje de homem aranha kkkkkkkk).<br/><br/>
+        Me chamo Arthur Procópio, tenho 20 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas(e caso se pergunta, sim, esse sou eu com meu traje de homem aranha, irado né?).<br/><br/>
         Iniciei minha jornada na programação pelo Python, que até hoje é a linguagem com a qual tenho maior familiaridade. Atualmente, meu foco principal está no desenvolvimento Back-End, especialmente utilizando Python integrado com Django. Além disso, estou estudando conceitos e aplicações de Machine Learning para ampliar ainda mais minhas competências na área.<br/><br/>
         Durante a faculdade, apesar do foco em Back-End com Python, tive a oportunidade de conhecer diversas outras tecnologias, como Java, JavaScript, HTML, CSS, SQL e também conceitos de redes de computadores. Esse conhecimento diversificado me proporcionou uma base sólida e me ajudou a entender melhor o ecossistema de desenvolvimento de software, mesmo mantendo o Python como meu principal instrumento de trabalho.<br/><br/>
         O objetivo deste perfil no GitHub é compartilhar meus projetos pessoais e criar um espaço para praticar e evoluir continuamente. Aqui, você encontrará trabalhos tanto de Back-End quanto de Front-End, pois acredito que o aprendizado constante envolve explorar diferentes áreas. Meu foco não é a perfeição, mas sim a melhoria contínua, aberta a feedbacks e colaborações que possam me ajudar a crescer como profissional.
